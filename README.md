@@ -1,4 +1,4 @@
-# Library-Management-System
+# 📚Library-Management-System
 Empowering Seamless Library Management and Innovation
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/shaulratemo/Library-Management-System) ![GitHub top language](https://img.shields.io/github/languages/top/shaulratemo/Library-Management-System) ![GitHub language count](https://img.shields.io/github/languages/count/shaulratemo/Library-Management-System)
@@ -7,7 +7,7 @@ Built with the best and latest technologies.
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Table of Contents
+## 🧭Table of Contents
 Overview
 
 Getting Started
@@ -20,7 +20,7 @@ Usage
 
 Testing
 
-## Overview
+## 🧭Overview
 Library-Management-System is a comprehensive tool designed to streamline library operations through robust features for book and user management. It provides a powerful solution for managing members, books, and borrowing transactions, ensuring efficient library workflow.
 
 ### Why Library-Management-System?
@@ -36,15 +36,15 @@ This project emphasizes the creation and management of a library database, suppo
 
 ~ Developer-Friendly: Modular codebase designed for straightforward customization and extension.
 
-## Getting Started
-### Prerequisites
+## 🚀Getting Started
+### 📋Prerequisites
 This project requires the following dependencies:
 
 Programming Language: Python
 
 Package Manager: Conda
 
-## Installation
+## ⚙️Installation
 Build Library-Management-System from the source and install dependencies:
 
 Clone the repository:
@@ -65,7 +65,7 @@ Bash
 
 conda env create -f env.yml
 
-## Usage
+## 💡Usage
 Run the project with:
 
 Using conda:
@@ -75,7 +75,7 @@ Bash
 conda activate [your-env]
 python [your-script].py
 
-## Testing
+## 🛠️Testing
 Library-Management-System uses the [test-framework] test framework. Run the test suite with:
 
 Using conda:
@@ -84,4 +84,5 @@ Bash
 
 conda activate [your-env]
 pytest
-Return
+
+⬆️[Return](#library-management-system)

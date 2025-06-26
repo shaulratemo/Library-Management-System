@@ -20,7 +20,7 @@ Usage
 
 Testing
 
-## 🧭Overview
+## 📖Overview
 Library-Management-System is a comprehensive tool designed to streamline library operations through robust features for book and user management. It provides a powerful solution for managing members, books, and borrowing transactions, ensuring efficient library workflow.
 
 ### Why Library-Management-System?

@@ -1,11 +1,11 @@
 ##Library-Management-System
 Empowering Seamless Library Management and Innovation
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/shaulratemo/Library-Management-System) ![GitHub top language](https://img.shields.io/github/languages/top/shaulratemo/Library-Management-System) ![GitHub language count](https://img.shields.io/github/languages/count/shaulratemo/Library-Management-System)
 
 Built with the best and latest technologies.
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Table of Contents
 Overview

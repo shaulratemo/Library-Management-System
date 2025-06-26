@@ -51,29 +51,32 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/Library-Management-System.git
+git clone https://github.com/shaulratemo/Library-Management-System
+
 Navigate to the project directory:
 
 Bash
 
 cd Library-Management-System
+
 Install the dependencies:
 
 Using conda:
 
 Bash
 
-conda env create -f env.yml
+conda env create -f conda.yml
 
 ## 💡Usage
+
 Run the project with:
 
 Using conda:
 
 Bash
 
-conda activate [your-env]
-python [your-script].py
+conda activate [venv]
+python [entrypoint]
 
 ## 🛠️Testing
 Library-Management-System uses the [test-framework] test framework. Run the test suite with:
@@ -82,7 +85,7 @@ Using conda:
 
 Bash
 
-conda activate [your-env]
+conda activate [venv]
 pytest
 
 ⬆️[Return](#library-management-system)
